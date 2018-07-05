@@ -1,0 +1,77 @@
+body {
+	background-color:rgb(102, 105, 109);
+}
+
+header {	
+	background: rgb(241, 243, 245);
+	
+	
+}	
+	
+main {
+	background-color: lightgrey;
+}
+
+
+
+
+
+h1 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 60px;
+	color: rgb(49, 46, 95);
+	
+}
+
+
+
+
+
+
+nav{
+
+	margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica;
+    
+}
+nav ul {
+	text-align: center;
+	padding: 0;
+}
+
+nav ul li {
+	display:block;
+	color:blue;
+	margin-right: 1em;
+	font-size: 1.25em;
+	
+}
+
+h2 {
+	text-align: center;
+	color: rgb(68, 75, 99);
+	font-family: sans-serif;
+
+}
+
+p {
+	text-align: center;
+
+}
+
+
+
+footer p {
+	text-align: left;
+	color: white;
+}
+
